@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a09a691b-68ac-45bc-8425-22fc1c61c870": {
+      "ProjectGuid": "a09a691b-68ac-45bc-8425-22fc1c61c870",
+      "DisplayName": "Vovk.Lab-7.1",
+      "ColorIndex": 0
+    },
+    "a15a910f-6e96-49d8-86b4-28fcf2ad0f32": {
+      "ProjectGuid": "a15a910f-6e96-49d8-86b4-28fcf2ad0f32",
+      "DisplayName": "Vovk.Lab-7.1.1",
+      "ColorIndex": 1
+    },
+    "d562e5a9-95ca-4980-97ac-54ac6012b469": {
+      "ProjectGuid": "d562e5a9-95ca-4980-97ac-54ac6012b469",
+      "DisplayName": "Vovk.Lab-7.2",
+      "ColorIndex": 2
+    },
+    "e2dcebe3-876f-4243-b0f1-918855040446": {
+      "ProjectGuid": "e2dcebe3-876f-4243-b0f1-918855040446",
+      "DisplayName": "Vovk.Lab-7.2.1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

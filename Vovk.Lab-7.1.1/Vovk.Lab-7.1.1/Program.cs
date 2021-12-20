@@ -7,6 +7,7 @@ namespace Vovk.Lab7
         {
             string w = Convert.ToString(Console.ReadLine());
             char[] slova = { ' ' };
+            //Возвращает строковый массив, содержащий подстроки данного экземпляра
             string[] a = w.Split(slova);
             int b = a.Length;
             string firstword = a[0];
@@ -21,6 +22,7 @@ namespace Vovk.Lab7
                 if (a[i] == secondword)
                     a[i] = firstword;
             }
+            //Сцепляет элементы указанного массива или элементы коллекции, помещая между ними заданный разделитель
             string c = String.Join(" ", a);
             Console.WriteLine(c);
         }
