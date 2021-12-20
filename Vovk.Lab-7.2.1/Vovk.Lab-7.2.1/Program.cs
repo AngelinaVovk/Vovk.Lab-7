@@ -6,7 +6,7 @@ namespace Vovk.Lab7
         static void Main(string[] args)
         {
             string w = Convert.ToString(Console.ReadLine());
-            char[] letter = {'*'};
+            char[] letter = {' '};
             string[] a = w.Split(letter);
             int b = a.Length;
             for (int i = 0; i < b; i++)
